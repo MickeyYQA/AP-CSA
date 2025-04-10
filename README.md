@@ -45,12 +45,14 @@ Operation Precedence:
 
 ## If-else statement
 
-``if(test){``
-``<statement>;``
-``}``
-``else{``
-``<statement>;``
-``}``
+```java
+if(test){
+    <statement>;
+}
+else{
+    <statement>;
+}
+```
 
 ## De Morgan's Laws
 
@@ -61,12 +63,16 @@ Operation Precedence:
 
 ## While loop
 
-``while(test){``
-``<statement>;``
-``}``
+```java
+while(test){
+    <statement>;
+}
+```
 
 ## For loop
 
-``for(init; test; update){``
-``<statement>``
-``}``
+```java
+for(init; test; update){
+    <statement>;
+}
+```
